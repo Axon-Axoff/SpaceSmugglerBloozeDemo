@@ -17,6 +17,8 @@ This repo hosts the **3-level web demo** and a high-level pitch/roadmap for pote
 - Runs in modern desktop browsers.
 - High scores are saved remotely to a server-side JSON file via a PHP API.
 
+Survive three sectors, blow up everything you see, grab as many dezoods as you can, then go to the last smuggler's den and sign out with score by taking next mission.
+
 ---
 
 ## Setting & Story (Short Version)
