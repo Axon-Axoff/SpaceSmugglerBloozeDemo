@@ -11,7 +11,7 @@ This repo hosts the **3-level web demo** and a high-level pitch/roadmap for pote
 ## Play the Demo
 
 > **Play in your browser:**  
-> https://axon-axoff.github.io/SpaceSmugglerBlooze-demo/  
+> https://axon-axoff.github.io/SpaceSmugglerBloozeDemo/
 
 - No install required.
 - Runs in modern desktop browsers.
