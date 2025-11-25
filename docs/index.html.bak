@@ -81,11 +81,12 @@ body {
 const GODOT_CONFIG = {
   "args": [],
   "canvasResizePolicy": 1,
-  "ensureCrossOriginIsolationHeaders": false,
+  "ensureCrossOriginIsolationHeaders": false, // was true; not needed for single-thread build
   "executable": "index",
   "experimentalVK": false,
   "fileSizes": {
-    "index.pck":41441456,"index.wasm":43016933
+    "index.pck": 23428704,
+    "index.wasm": 43016933
   },
   "focusCanvas": true,
   "gdextensionLibs": []
